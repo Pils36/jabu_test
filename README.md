@@ -19,6 +19,7 @@ This will help the user plan ahead on what is pending.
 Out of many other projects, PaySprint (https://paysprint.ca) happens to have been the most interesting of them all.
 
 <strong>What is PaySprint?</strong>
+
 PaySprint is a subscription based wallet system, that allows user to send and receive money both locally and international.
 
 Aside the integration with third-party payment gateways like Stripe, PayPal, PayStack, Dusupay using RESTFul API, I was also exposed to using SOAP service integration with Money Exchange (MOEX).
@@ -32,16 +33,20 @@ https://shuftipro.com/press-release/paysprint-and-shufti-pro-join-forces-to-prov
 So far, PaySprint has over 13,000 registered users around the globe and i feel like a proud Dad to the growth of the platform.
 
 <strong>What is docker?</strong>
+
 Docker is an open source platform for building, deploying and managing container applications. It can also mean an open source platform for developing, shipping and running applications. Docker also enables separate applications from the infrastructure so one can deliver software quickly.
 
 
 <strong>What is Serverless?</strong>
+
 Serverless is a cloud-native development model that allows developers to build and run applications without having to manage a server. A cloud provider handles the routine work of provisioning, maintaining and scaling the server infrastructure.
 
 
 <strong>What is Git?</strong>
+
 Git is a distributed version control system designed to handle everything from small to very large projects with speed and efficiency. It is also Free and Open Source.
 
 
 <strong>What is a merge request?</strong>
+
 Merge requests is a request from a user to merge their code from one branch to the other. It is also a way to check source code changes into a branch, typically to the master branch.
